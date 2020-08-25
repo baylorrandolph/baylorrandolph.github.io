@@ -15,7 +15,7 @@ Vestibulum molestie imperdiet purus, vel placerat turpis mollis a. Pellentesque 
 ### Diverse Employees
 Suspendisse tincidunt mauris felis, vitae volutpat augue euismod interdum. Ut velit erat, tempus ut iaculis dapibus, porta nec felis. Pellentesque rhoncus odio non tincidunt vestibulum. Aenean commodo luctus turpis, in congue mauris. Aenean nec nunc in orci fringilla molestie. Praesent scelerisque sem tellus, efficitur rutrum risus cursus non. Nulla vehicula eros blandit, blandit libero eget, feugiat sem. Ut nibh ex, dignissim non venenatis a, posuere at nunc. Praesent vel lacus a nibh semper pretium nec vitae turpis.
 
-### Some Interesting Statistics
+## Some Interesting Statistics
 * In a survey of remote workers by Morning Consult and The New York Times, 86 percent said they were satisfied working from home.
 * 1 in 5 workers said they wanted to go back to the office full-time.
 * 1 in 3 workers said they would move to a new city or state if remote work continued indefinitely.
