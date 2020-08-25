@@ -5,7 +5,9 @@ categories: [company culture]
 tags: [remote working]
 date: 2020-08-24
 ---
-## Benefits of working from home
-### Finding the right balance
+## Benefits of Working From Home
+### Less Burn Out
+### More Flexiability
+
 
 
