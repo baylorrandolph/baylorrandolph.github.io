@@ -5,6 +5,8 @@ categories: [innovative technology]
 tags: [customers]
 date: 2020-07-18
 ---
+>>Bitwarden is open-source software that we believe to be one of the best password managers available today.  It’s user friendly and highly secure, and includes almost everything individuals, teams, and businesses require in a password manager.
+
 ## A Company Dedicated to Innovative Technology With Complete Transparency and Putting Our Customers First
 
 ### 1. Open Source Approach and Complete Transparency
