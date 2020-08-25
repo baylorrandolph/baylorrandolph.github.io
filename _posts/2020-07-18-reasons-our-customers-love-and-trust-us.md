@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reasons Our Customers Love and Trust Us"
-categories: [innovative technology]
+categories: [why Bitwarden]
 tags: [customers]
 date: 2020-07-18
 ---
